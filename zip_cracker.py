@@ -6,10 +6,10 @@ import zipfile
 text = ("ZIP CRACKER")
 print(pyfiglet.figlet_format(text))
 print("_______________________________________")
-print("Tool Name: Zip password cracker")
-print("Author   : Easin Hossain")
-print("Github   : BCS_950")
-print("Facebook : EASIN HOSSAIN")
+print(colored("Tool Name: Zip password cracker","green"))
+print(colored("Author   : Easin Hossain","red"))
+print(colored("Github   : BCS_950","blue")
+print(colored("Facebook : EASIN HOSSAIN","yellow"))
 print("••••••••••••••••••••••••••••••••••••••••")
 
 def shawon_crack(password_list, obj):
