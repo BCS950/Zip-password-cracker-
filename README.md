@@ -7,5 +7,5 @@ pkg update<br>
 pkg upgrade<br>
 pkg install git<br>
 git clone https://github.com/BCS950/Zip-password-cracker-/<br>
-cd zip-password-cracker
-python zip-password-cracker
+cd zip-password-cracker<br>
+python zip-cracker.py
